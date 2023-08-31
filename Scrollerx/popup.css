@@ -1,0 +1,26 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  } */
+  
+  .scroll-button {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  /* .scroll-button:hover {
+    background-color: #b3d9ff;
+  } */
+  
